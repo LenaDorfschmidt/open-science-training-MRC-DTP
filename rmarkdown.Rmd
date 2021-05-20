@@ -431,7 +431,7 @@ While `getwd()` should differ between being run on the console and from withing 
 
 # Further resources
 ***
-This [cheatsheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.130692559.1531018005.1610984746-1259499429.1600070494) is a great resource to have at hand when you get started. 
+This [cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) is a great resource to have at hand when you get started. 
 
 [Here](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) you find details on many more options to stylize your reports than we have discussed here. 
 
